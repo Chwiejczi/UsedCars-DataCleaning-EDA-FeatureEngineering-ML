@@ -1,0 +1,2 @@
+Due to the large size of the original dataset (~1.4 GB), the raw data is not included in this repository. This is because GitHub has a 100 MB limit for individual files.
+The dataset can be downloaded separately and placed in the data/ directory as vehicles.csv before running the analysis.
